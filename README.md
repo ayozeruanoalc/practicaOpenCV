@@ -4,6 +4,6 @@
 
 Este proyecto implementa un **detector de coches** utilizando Python y OpenCV. Cuenta coches en el vídeo de muestra proporcionado, mediante técnicas clásicas de visión por computador.
 
-#### 👥 Autores
+### 👥 Autores
 - **Ayoze Ruano** — 🔗 [GitHub](https://github.com/ayozeruanoalc)
 - **Enrique Reina** — 🔗 [GitHub](https://github.com/ellupe)
