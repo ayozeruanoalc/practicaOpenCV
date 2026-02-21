@@ -1,4 +1,4 @@
-# Práctica: Detector de Coches con Python y OpenCV
+# Detector de Coches con Python y OpenCV
 
 [![My Skills](https://skillicons.dev/icons?i=python,opencv,vscode)](https://skillicons.dev)
 
